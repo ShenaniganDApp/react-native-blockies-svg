@@ -6,9 +6,8 @@ Depends on react-native-svg and needs to be linked.
 ## Install
 
 ```shell
-yarn add git+https://github.com/bpeters/react-native-blockies-svg.git
+yarn add git+https://github.com/ShenaniganDApp/react-native-blockies-svg.git react-native-svg
 
-react-native link
 ```
 
 ## General Usage
