@@ -4,9 +4,11 @@
   "description": "Ethereum blockies for React Native as SVGs",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^16.0.0",
-    "react-native": "^0.49.3",
+    "react-native": "^0.49.3"
+  },
+  "dependencies": {
     "react-native-svg": "^5.4.2"
   }
 }
